@@ -12,7 +12,7 @@ const Contact = () => {
         </p>
         
         <a
-          href="#"
+          href="https://dsc.gg/team-sxlar"
           className="inline-flex items-center space-x-2 bg-purple-600 hover:bg-purple-700 text-white px-8 py-3 rounded-lg transition-colors duration-200"
         >
           <MessageSquare className="w-5 h-5" />
