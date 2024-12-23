@@ -9,7 +9,7 @@ const AnimatedBanner: React.FC = () => {
         <div className="flex justify-center">
           {/* Replace with the actual path to your animated banner */}
           <img
-            src="/assets/banner.gif"
+            src="https://i.imgur.com/41t4ZsH.mp4"
             alt="Animated Banner"
             className="w-full max-w-4xl rounded-lg shadow-lg"
           />
