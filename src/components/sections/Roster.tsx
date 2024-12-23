@@ -4,7 +4,7 @@ import { User } from 'lucide-react';
 const players = Array.from({ length: 10 }, (_, i) => ({
   id: i + 1,
   name: `Player ${i + 1}`,
-  role: ['Captain', 'Support', 'Entry Fragger', 'IGL', 'Flex'][i % 5],
+  role: ['Coach', 'Support', 'Entry Fragger', 'IGL', 'Pro Fragger'][i % 5],
 }));
 
 const Roster = () => {
