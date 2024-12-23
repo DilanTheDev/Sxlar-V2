@@ -4,17 +4,17 @@ const sponsors = [
   {
     id: 1,
     name: 'Sponsor 1',
-    imageUrl: 'https://images.unsplash.com/photo-1563986768609-322da13575f3?w=300&h=300&fit=crop',
+    imageUrl: 'https://i.imgur.com/I6Qys2Y.png',
   },
   {
     id: 2,
     name: 'Sponsor 2',
-    imageUrl: 'https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=300&h=300&fit=crop',
+    imageUrl: 'https://i.imgur.com/I6Qys2Y.png',
   },
   {
     id: 3,
     name: 'Sponsor 3',
-    imageUrl: 'https://images.unsplash.com/photo-1563986768817-257bf91c5753?w=300&h=300&fit=crop',
+    imageUrl: 'https://i.imgur.com/I6Qys2Y.png',
   },
 ];
 
