@@ -18,7 +18,6 @@ function App() {
         <About />
         <Roster />
         <Sponsors />
-        <AnimatedBanner /> {/* Add the new section here */}
         <Contact />
       </main>
       <Footer />
